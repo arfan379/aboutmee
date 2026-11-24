@@ -18,7 +18,7 @@ Aku membangun solusi berbasis AI dan data untuk kebutuhan industri, mulai dari s
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,redis,kafka,fastapi,docker,tensorflow,pytorch,opencv,sklearn,pandas,grafana,react,ts,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,redis,kafka,fastapi,docker,tensorflow,pytorch,opencv,sklearn,grafana,react,ts,git,github,linux)](https://skillicons.dev)
 
 **Data Engineering & BI:** Apache Airflow · dbt · Metabase
 
